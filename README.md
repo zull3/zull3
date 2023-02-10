@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zull3
 - 👀 I’m interested in coding and computer science  
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on - nothing much yet
 - 📫 How to reach me, you can call me
 
