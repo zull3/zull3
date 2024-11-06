@@ -1,6 +1,6 @@
 - 👋 Hi, I’m zull3
 - 👀 I’m interested in coding and computer science  
-- 🌱 I’m currently learning Java
+
 
 <!---
 zull3/zull3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
