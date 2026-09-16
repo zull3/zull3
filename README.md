@@ -1,6 +1,6 @@
 - 👋 Hi, I’m zull3
 - 👀 I’m interested in coding and computer science
-- xiiro.dev  
+- https://xiiro.dev/
 
 
 <!---
